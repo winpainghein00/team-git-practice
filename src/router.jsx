@@ -4,6 +4,7 @@ export const router = createBrowserRouter(
     [
         {
             path:"/"
+            
         }
     ]
 )
